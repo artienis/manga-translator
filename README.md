@@ -14,7 +14,7 @@ Bu araç, yapay zeka (Gemini 2.0 Flash) kullanarak manga sayfalarındaki metinle
 
 1. Bu depoyu klonlayın:
    ```bash
-   git clone [https://github.com/kullaniciadi/manga-translator.git](https://github.com/kullaniciadi/manga-translator.git)
+   git clone [https://github.com/artienis/manga-translator.git](https://github.com/artienis/manga-translator.git)
    cd manga-translator
 Gerekli kütüphaneleri yükleyin:
 
@@ -39,4 +39,4 @@ Program arial.ttf fontunu kullanmaya çalışır. Eğer sisteminizde yoksa varsa
 API kullanımı ücrete veya limitlere tabi olabilir.
 
 📄 Lisans
-Bu proje MIT lisansı altında lisanslanmıştır.
+Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakabilirsiniz.
