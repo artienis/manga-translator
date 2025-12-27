@@ -15,12 +15,11 @@ Bu araç, yapay zeka (Gemini 2.0 Flash) kullanarak manga sayfalarındaki metinle
 1. Bu depoyu klonlayın:
    git clone [https://github.com/artienis/manga-translator.git](https://github.com/artienis/manga-translator.git)
       ```bash
-cd manga-translator
+   cd manga-translator
 Gerekli kütüphaneleri yükleyin:
 
-
 pip install -r requirements.txt
-Bash
+Bash```
 OpenRouter üzerinden bir API anahtarı alın ve sisteme tanımlayın:
 
 Windows (PowerShell): $env:OPENROUTER_API_KEY="anahtarınız"
@@ -30,7 +29,7 @@ Linux/Mac: export OPENROUTER_API_KEY="anahtarınız"
 🛠 Kullanım
 Programı çalıştırın ve işlemek istediğiniz manga sayfasının yolunu girin:
 
-Bash
+
 
 python main.py
 ⚠️ Dikkat
